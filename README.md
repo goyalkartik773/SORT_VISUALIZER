@@ -49,7 +49,8 @@ An interactive visualizer for sorting algorithms, built with C++ and SFML. This 
 Here’s a quick demonstration of the project in action:
 
 <video width="800" controls>
-  <source src="video/sorting_window.mp4" type="video/mp4">
+  <source src="https://github.com/goyalkartik773/SORT_VISUALIZER/raw/main/video/sorting_window.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
