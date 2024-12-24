@@ -17,6 +17,10 @@ An interactive visualizer for sorting algorithms, built with C++ and SFML. This 
 - Customizable array sizes and speeds for visualization.
 - Real-time updates of sorting progress with animations.
 - Simple and intuitive UI powered by SFML.
+## Screenshots
+
+## different shots
+![WELCOME PAGE](screenshots/welcome.png)
 
 ## Requirements
 - C++ Compiler (supports C++11 or newer)
