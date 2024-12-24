@@ -19,8 +19,20 @@ An interactive visualizer for sorting algorithms, built with C++ and SFML. This 
 - Simple and intuitive UI powered by SFML.
 ## Screenshots
 
-## different shots
+## [WELCOME PAGE]
 ![WELCOME PAGE](screenshots/welcome.png)
+
+## [Main_MENU]
+![WELCOME PAGE](screenshots/main_menu.png)
+
+## [Sort_Options]
+![WELCOME PAGE](screenshots/methods.png)
+
+## [Inputs]
+![WELCOME PAGE](screenshots/choices.png)
+
+## [IMG_after_SORT]
+![WELCOME PAGE](screenshots/finalsort.png)
 
 ## Requirements
 - C++ Compiler (supports C++11 or newer)
@@ -31,3 +43,13 @@ An interactive visualizer for sorting algorithms, built with C++ and SFML. This 
    ```bash
    git clone https://github.com/your-username/sort-visualizer.git
    cd sort-visualizer
+
+  ## Project Demo
+
+Here’s a quick demonstration of the project in action:
+
+<video width="800" controls>
+  <source src="video/sorting_window.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
